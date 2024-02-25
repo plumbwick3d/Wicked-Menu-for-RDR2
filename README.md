@@ -20,6 +20,11 @@ Wicked Menu
 
 Change Logs/
 
+v5.1.0 
+Fixed small Lua error in Teleport to Waypoint script.
+Thanks to @Miklo #958446681475657810 for finding this and bringing it to our attention.
+
+
 
 V5.0 
 
