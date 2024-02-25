@@ -9,7 +9,7 @@ This menu REQUIRES Cheat Engine to run it.
 ***
 
 
-![Screenshot_1](https://github.com/plumbwicked/Wicked-Menu-for-RDR2/assets/62859332/e5e50ee5-9966-4cc9-befd-842e8e8411b3)
+![Screenshot_9](https://github.com/plumbwick3d/Wicked-for-RDR2/assets/160573347/7323b8e6-d456-4e8b-81e5-209063aa483c)
 
 
 
