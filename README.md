@@ -10,7 +10,7 @@ https://www.cheatengine.org/downloads.php
 ***
 
 
-![Screenshot_9](https://github.com/plumbwick3d/Wicked-for-RDR2/assets/160573347/7323b8e6-d456-4e8b-81e5-209063aa483c)
+![Screenshot_9](https://github.com/plumbwick3d/Wicked-Menu-for-RDR2/releases/download/v5.1.0/Wicked_RDR2_V5.1.CT)
 
 
 
