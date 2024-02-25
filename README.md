@@ -1,6 +1,7 @@
 # Wicked-for-RDR2
 ***
 This menu REQUIRES Cheat Engine to run it.
+
 https://www.cheatengine.org/downloads.php
 ***
 
@@ -21,7 +22,9 @@ Wicked Menu
 Change Logs/
 
 v5.1.0 
+
 Fixed small Lua error in Teleport to Waypoint script.
+
 Thanks to @Miklo #958446681475657810 for finding this and bringing it to our attention.
 
 
