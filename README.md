@@ -1,4 +1,4 @@
-# Wicked Menu for RDR2
+# Wicked Menu for RDR Online
 ***
 This menu REQUIRES Cheat Engine to run it.
 
