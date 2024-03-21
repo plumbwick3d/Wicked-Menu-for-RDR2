@@ -21,6 +21,18 @@ Wicked Menu
 
 Change Logs/
 
+
+v5.2.0 
+
+
+Updated for RDRO v1491.50
+
+Menu Optimized 
+
+
+
+
+
 v5.1.0 
 
 Fixed small Lua error in Teleport to Waypoint script.
