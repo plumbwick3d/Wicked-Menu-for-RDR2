@@ -6,7 +6,7 @@ https://www.cheatengine.org/downloads.php
 ***
 
 ***
- [DOWNLOAD LATEST MENU VERSION HERE](https://github.com/plumbwick3d/Wicked-Menu-for-RDR2/releases/download/v5.1.0/Wicked_RDR2_V5.1.CT) 
+ [DOWNLOAD LATEST MENU VERSION HERE](https://github.com/plumbwick3d/Wicked-Menu-for-RDR2/releases/download/v5.2/Wicked_RDR2_V5.2.CT) 
 ***
 
 
